@@ -38,8 +38,8 @@
        **[8,11,12,16,21,22]**
 
 2. ## Big-O gösterimini yazınız.
-**O(nlogn)
+**O(nlogn)**
 
 # [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
-[image](C:/Users/Tolgahan/Desktop/Screenshot_1.png)
+![Binary-Search-Tree](C:/Users/Tolgahan/Desktop/Screenshot_1.png)
